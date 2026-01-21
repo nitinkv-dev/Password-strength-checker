@@ -1,0 +1,11 @@
+Enter your password: hello
+Password Strength: WEAK
+
+Hashed Password (stored securely):
+2cf24dba5fb0a...
+
+Suggestions to improve your password:
+- Use at least 8 characters
+- Add an uppercase letter
+- Add a number
+- Add a special character
